@@ -1,0 +1,148 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "personalId": "11111111111",
+      "firstName": "test1",
+      "lastName": "test1",
+      "gender": "Male",
+      "mobileNumber": "555555555",
+      "legalAddress": "testAddress",
+      "actualAddress": "testActualAddress",
+      "pictureName": "pic.jpg",
+      "accounts": []
+    },
+    {
+      "id": 2,
+      "personalId": "11111111111",
+      "firstName": "test2",
+      "lastName": "test2",
+      "gender": "Female",
+      "mobileNumber": "555555555",
+      "legalAddress": "testAddress",
+      "actualAddress": "testActualAddress",
+      "pictureName": "pic.jpg",
+      "accounts": []
+    },
+    {
+      "id": 3,
+      "personalId": "11111111111",
+      "firstName": "test3",
+      "lastName": "test3",
+      "gender": "Female",
+      "mobileNumber": "555555555",
+      "legalAddress": "testAddress",
+      "actualAddress": "testActualAddress",
+      "pictureName": "pic.jpg",
+      "accounts": []
+    },
+    {
+      "firstName": "as",
+      "lastName": "asas",
+      "gender": "Female",
+      "personalId": "asasasasasa",
+      "legalAddress": "asasaa",
+      "mobileNumber": "555555555",
+      "actualAddress": "sasa",
+      "pictureName": "pic.jpg",
+      "id": 4,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "adadasdasd",
+      "gender": "Female",
+      "personalId": "dasdadasdas",
+      "legalAddress": "asdasdas",
+      "mobileNumber": "566666666",
+      "actualAddress": "dasdadad",
+      "pictureName": "pic.jpg",
+      "id": 5,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdasd",
+      "gender": "Female",
+      "personalId": "asdasdasdas",
+      "legalAddress": "asdasdasd",
+      "mobileNumber": "599999999",
+      "actualAddress": "asdasdasd",
+      "pictureName": "pic.jpg",
+      "id": 6,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdasda",
+      "gender": "Female",
+      "personalId": "asdasdasdad",
+      "legalAddress": "asdasdas",
+      "mobileNumber": "566666666",
+      "actualAddress": "asdasdas",
+      "pictureName": "pic.jpg",
+      "id": 7,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdasd",
+      "gender": "Female",
+      "personalId": "99999999999",
+      "legalAddress": "asdasd",
+      "mobileNumber": "599999999",
+      "actualAddress": "asdasda",
+      "pictureName": "pic.jpg",
+      "id": 8,
+      "accounts": []
+    },
+    {
+      "firstName": "aasdasd",
+      "lastName": "sadas",
+      "gender": "Female",
+      "personalId": "asdasdadasd",
+      "legalAddress": "sdas",
+      "mobileNumber": "599999999",
+      "actualAddress": "das",
+      "pictureName": "pic.jpg",
+      "id": 9,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdasdasd",
+      "gender": "Female",
+      "personalId": "55555555555",
+      "legalAddress": "aasdad",
+      "mobileNumber": "555555555",
+      "actualAddress": "asdasdasd",
+      "pictureName": "pic.jpg",
+      "id": 10,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasd",
+      "lastName": "asdasd",
+      "gender": "Female",
+      "personalId": "asdasdasdas",
+      "legalAddress": "8 McCullough Dr",
+      "mobileNumber": "564119401",
+      "actualAddress": "asdada",
+      "pictureName": "pic.jpg",
+      "id": 11,
+      "accounts": []
+    },
+    {
+      "firstName": "asdasdas",
+      "lastName": "dasdas",
+      "gender": "Female",
+      "personalId": "55555555555",
+      "legalAddress": "asdasd",
+      "mobileNumber": "555555555",
+      "actualAddress": "sdasd",
+      "pictureName": "pic.jpg",
+      "id": 12,
+      "accounts": []
+    }
+  ]
+}
